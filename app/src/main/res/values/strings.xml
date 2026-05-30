@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskFlow</string>
+    <string name="task_count_summary">%1$d tasks · %2$d remaining</string>
+    <string name="filter_all">All</string>
+    <string name="filter_active">Active</string>
+    <string name="filter_completed">Completed</string>
+    <string name="new_task">New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="hint_title">What needs to be done?</string>
+    <string name="priority">Priority</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_task">Add Task</string>
+    <string name="save_task">Save</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="undo">Undo</string>
+    <string name="no_tasks">No tasks yet — tap + to begin</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="created_at">Created %1$s</string>
+    <string name="empty_title_error">Title cannot be empty</string>
+</resources>

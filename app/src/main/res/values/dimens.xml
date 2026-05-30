@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_corner_radius">24dp</dimen>
+    <dimen name="card_margin_horizontal">16dp</dimen>
+    <dimen name="card_margin_vertical">8dp</dimen>
+    <dimen name="padding_standard">16dp</dimen>
+    <dimen name="text_size_header">28sp</dimen>
+    <dimen name="text_size_title">16sp</dimen>
+    <dimen name="text_size_subtitle">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="priority_dot_size">12dp</dimen>
+    <dimen name="delete_btn_size">28dp</dimen>
+</resources>

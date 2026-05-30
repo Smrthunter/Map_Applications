@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Layer 0: base color -->
+    <item>
+        <shape>
+            <solid android:color="@color/colorSurface" />
+            <corners android:radius="24dp" />
+        </shape>
+    </item>
+    <!-- Layer 1: frosted overlay -->
+    <item>
+        <shape>
+            <solid android:color="@color/colorSurfaceAlpha" />
+            <corners android:radius="24dp" />
+        </shape>
+    </item>
+    <!-- Layer 2: glass edge -->
+    <item>
+        <shape>
+            <stroke android:width="1dp" android:color="@color/colorBorderAlpha" />
+            <corners android:radius="24dp" />
+        </shape>
+    </item>
+</layer-list>
